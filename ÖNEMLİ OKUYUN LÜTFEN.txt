@@ -1,0 +1,12 @@
+Çarpmacanın açılması için python 11'in ve pillow lib indirilmiş olması gerekmektedir.
+
+
+pillow indirme komutu:
+
+
+pip install pillow
+
+
+
+
+komut çalışmassa python'un doğru indirildiğinden emin olun.
